@@ -1,5 +1,6 @@
-How to install
-NOTE: This app is currently tested in a closed beta. Only companies in the beta program will be able to use it to get suggestions.
+### How to install
+
+**NOTE: This app is currently tested in a closed beta. Only companies in the beta program will be able to use it to get suggestions.**
 
 If you are part of the beta program, complete the following instructions as a Zendesk administrator. If you are having troubles please reach out to your contact point at True AI.
 
